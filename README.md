@@ -6,10 +6,12 @@ Usage:
 
 Add the view in your layout resource.
 
-<SuperActionBar
+
+&lt;SuperActionBar
     android:id="@+id/actionBar"
     android:layout_width="match_parent"
-    android:layout_height="48dp"/>
+    android:layout_height="48dp"/&gt;
+    
     
 Java:
     
