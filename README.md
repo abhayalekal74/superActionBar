@@ -12,6 +12,7 @@ Add the view in your layout resource.
     android:layout_height="48dp"/>
     
 Java:
+    
     SuperActionBar superActionBar = (SuperActionBar) findViewById(R.id.actionBar);                            
     superActionBar.setLeftMostIconView(R.drawable.ic_back_half)
                   .setTitle(getString(R.string.All_Replies))
